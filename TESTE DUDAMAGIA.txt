@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 COloca tudoooo em Duda !
 
 
 Coloca de novo!
-=======
 teste de inserção 1
->>>>>>> eb3e2c91bb243929dabb5428502bac3fcee13c06
+
 
 porto de galinha é regiao metropolitana também é???
 

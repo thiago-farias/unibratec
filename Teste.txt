@@ -1,1 +1,3 @@
 Alterando o arquivo de testes!!
+
+Teste com merge do master!!

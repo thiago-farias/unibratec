@@ -1,0 +1,2 @@
+1º git checkout -b <nome do branch>
+2º git push 

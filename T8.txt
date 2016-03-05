@@ -1,2 +1,3 @@
-1º git checkout -b <nome do branch>
-2º git push 
+1º acessar Git Bash 
+2º escrever e executar o código git checkout -b <nome do branch>
+3º git push 

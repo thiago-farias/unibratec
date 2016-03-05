@@ -1,0 +1,6 @@
+Para criar um arquivo, criar uma branch, atualizar arquivos e salvar no repositório remoto, sigua os passos:
+
+1) git checkout -b nomeDaBranch
+2) git add .
+3) git commit -m 'Teste revisao T13'
+4) git push -set--upstream origin nomeDaBranch

@@ -1,0 +1,6 @@
+1 - Criar branch remoto
+	Posicionar o cursor dentro da 'master'
+$ git checkout -b tarefas
+	
+2 - Criar a branch pelo arcanlist
+$ arc feature T6

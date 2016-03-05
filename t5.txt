@@ -1,0 +1,2 @@
+git checkout -b "nome do branche"
+git push --set-upstream origin ""

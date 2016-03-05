@@ -1,0 +1,2 @@
+1o acessar Git Bash 
+2o escrever e executar o código git checkout -b <nome do branch>
